@@ -1,0 +1,54 @@
+body{
+    background-color: skyblue;
+    
+}
+
+thead{
+    background-color: green;
+}   
+    
+    
+
+
+table{
+    background-color: white;
+font-family: arial;
+color: white;
+border: 15px solid black;
+text-align: right;
+border-collapse: collapse;
+width: 620px ;
+height: 80px
+margin: top 5px;
+}
+td{background-color: white;
+    border-top: 3px solid lightgray;
+    border-right: 2px solid lightgray;
+    border-bottom: 0px solid lightgray;
+    color: black;
+    text-align: center;
+}
+
+
+th{
+    color: white;
+    text-align: center;
+    width: 600px;
+}
+.vol{
+	width: 40px;
+	height:10px;
+	border: 20px solid black;
+	margin-left: 10px auto;
+	border-radius: 15px;
+	background-color: black;
+	color: white; }
+
+    .vol{
+        width: 40px;
+        height:10px;
+        border: 20px solid black;
+        margin-left: 30px auto;
+        border-radius: 15px;
+        background-color: black;
+        color: white; }
